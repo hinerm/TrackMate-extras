@@ -1,4 +1,4 @@
-[![](https://travis-ci.org/tinevez/TrackMate-extras.svg?branch=master)](https://travis-ci.org/tinevez/TrackMate-extras)
+[![](https://github.com/tinevez/TrackMate-extras/actions/workflows/build-main.yml/badge.svg)](https://github.com/tinevez/TrackMate-extras/actions/workflows/build-main.yml)
 
 TrackMate-extras
 ================
